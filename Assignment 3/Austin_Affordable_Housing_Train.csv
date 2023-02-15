@@ -1,0 +1,201 @@
+,Zip_Code,Council_District,Total_Units,Total_Affordable_Units,Total_Accessible_Units,Total_Permanent_Support,Unit_Type,Tenure,Status,Affordability_Start_Year,Affordability_Expiration_Year,Affordability_Period,Units_Under_50_Percent_MFI,Market_Rate_Units,Voluntary,City_Amount
+0,78704,5,40,40.0,6.0,0.0,Multifamily,Rental,7. Project Completed,2013,2112,99,36,0,No,675000.0
+1,78702,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2009,2108,99,1,0,No,95416.66
+2,78722,1,6,6.0,2.0,0.0,Multifamily,Rental,7. Project Completed,2009,2019,10,0,0,No,197142.85
+3,78757,7,10,10.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2007,2047,40,10,0,No,500000.0
+4,78702,1,130,130.0,16.0,0.0,Multifamily,Rental,7. Project Completed,2010,2109,99,130,0,No,2500000.0
+5,78722,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2003,2023,20,1,0,No,36666.67
+6,78745,5,22,22.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2008,2107,99,22,0,No,1805294.0
+7,78702,1,2,2.0,0.0,0.0,Duplex,Rental,7. Project Completed,2009,2108,99,1,0,No,190833.33
+8,78722,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2003,2023,20,1,0,No,36666.67
+9,78756,10,21,21.0,2.0,0.0,Multifamily,Rental,8. Affordability Period Expired,2006,2016,10,21,0,No,250000.0
+10,78722,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2003,2023,20,0,0,No,36666.67
+11,78741,3,70,68.0,9.0,0.0,Multifamily,Rental,7. Project Completed,2011,2031,20,0,0,No,299000.0
+12,78722,1,2,2.0,0.0,0.0,Duplex,Rental,7. Project Completed,2003,2023,20,0,0,No,73333.33
+13,78722,1,2,2.0,0.0,0.0,Duplex,Rental,7. Project Completed,2003,2023,20,1,0,No,73333.34
+14,78744,2,3,3.0,0.0,0.0,Single Family,Rental,7. Project Completed,2007,2027,20,3,0,No,50000.0
+15,78744,2,3,3.0,0.0,0.0,Single Family,Rental,7. Project Completed,2007,2027,20,3,0,No,50000.0
+16,78723,1,4,4.0,0.0,0.0,FourPlex,Rental,7. Project Completed,2009,2108,99,4,0,No,19789.5
+17,78704,5,47,47.0,7.0,0.0,Multifamily,Rental,7. Project Completed,2009,2110,99,47,0,No,1350000.0
+18,78723,1,4,4.0,3.0,8.0,FourPlex,Rental,7. Project Completed,2012,2111,99,4,0,No,223140.0
+19,78723,1,4,4.0,0.0,0.0,FourPlex,Rental,7. Project Completed,2012,2111,99,4,0,No,223140.0
+20,78723,1,11,11.0,12.0,0.0,Multifamily,Rental,7. Project Completed,2001,2021,20,11,0,No,260960.0
+21,78702,1,2,2.0,2.0,0.0,Duplex,Rental,7. Project Completed,2008,2048,40,2,0,No,125000.0
+22,78723,1,46,46.0,6.0,0.0,Multifamily,Rental,7. Project Completed,2009,2108,99,35,0,No,2000000.0
+23,78723,1,4,4.0,3.0,4.0,FourPlex,Rental,7. Project Completed,2012,2111,99,4,0,No,193720.0
+24,78702,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2009,2108,99,0,0,No,95416.67
+25,78722,1,8,8.0,1.0,0.0,Multifamily,Rental,7. Project Completed,2011,2026,15,8,0,No,491919.0
+26,78722,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2003,2023,20,0,0,No,36666.67
+27,78741,3,6,6.0,2.0,0.0,Multifamily,Rental,8. Affordability Period Expired,2005,2015,10,6,0,No,181717.0
+28,78702,1,2,2.0,0.0,0.0,Duplex,Rental,7. Project Completed,2008,2048,40,2,0,No,125000.0
+29,78702,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2009,2108,99,0,0,No,95416.67
+30,78722,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2003,2023,20,0,0,No,36666.67
+31,78702,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2008,2048,40,1,0,No,125000.0
+32,78705,9,50,50.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2009,2039,30,50,0,No,837500.0
+33,78702,3,56,56.0,8.0,0.0,Multifamily,Rental,7. Project Completed,2003,2078,75,56,0,No,466715.0
+34,78723,1,4,4.0,0.0,0.0,FourPlex,Rental,7. Project Completed,2009,2108,99,4,0,No,254421.0
+35,78741,3,120,120.0,15.0,25.0,Multifamily,Rental,7. Project Completed,2011,2110,99,120,0,No,2000000.0
+36,78745,3,238,238.0,29.0,0.0,Multifamily,Rental,7. Project Completed,2010,2109,99,119,0,No,3000000.0
+37,78744,2,7,7.0,2.0,0.0,Single Family,Rental,7. Project Completed,2006,2026,20,0,0,No,67505.0
+38,78722,1,150,140.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2009,2108,99,68,10,No,2000000.0
+39,78704,3,3,3.0,0.0,0.0,Single Family,Rental,7. Project Completed,2006,2026,20,0,0,No,35000.0
+40,78723,1,22,22.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2009,2059,50,22,0,No,1000000.0
+41,78721,1,24,24.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2010,2030,20,3,0,No,1752175.0
+42,78752,4,140,140.0,17.0,0.0,Multifamily,Rental,7. Project Completed,2005,2104,99,140,0,No,2000000.0
+43,78722,1,1,1.0,2.0,0.0,Single Family,Rental,7. Project Completed,2013,2028,15,1,0,No,201535.0
+44,78702,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2001,2021,20,0,0,No,25000.0
+45,78757,7,14,14.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2009,2108,99,0,0,No,900000.0
+46,78702,3,54,53.0,7.0,0.0,Multifamily,Rental,7. Project Completed,2003,2023,20,53,1,No,800000.0
+47,78722,1,2,2.0,2.0,0.0,Duplex,Rental,8. Affordability Period Expired,2006,2016,10,0,0,No,60782.0
+48,78702,1,100,100.0,12.0,0.0,Multifamily,Rental,7. Project Completed,2011,2110,99,100,0,No,2500000.0
+49,78702,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2009,2108,99,0,0,No,95416.67
+50,78745,2,15,15.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2007,2037,30,15,0,No,500000.0
+51,78722,1,2,2.0,0.0,0.0,Duplex,Rental,8. Affordability Period Expired,2006,2016,10,0,0,No,60872.0
+52,78702,1,1,1.0,0.0,0.0,Duplex,Rental,7. Project Completed,2005,2025,20,0,0,No,60000.0
+53,78722,1,1,1.0,0.0,0.0,Single Family,Rental,8. Affordability Period Expired,2006,2016,10,0,0,No,30436.0
+54,78704,3,12,12.0,2.0,0.0,Multifamily,Rental,7. Project Completed,2006,2026,20,12,0,No,300000.0
+55,78702,1,1,1.0,0.0,0.0,Single Family,Rental,2. Site Plan Under Review,2009,2049,40,0,0,No,60000.0
+56,78723,1,4,4.0,0.0,0.0,FourPlex,Rental,7. Project Completed,2009,2108,99,4,0,No,254421.0
+57,78723,9,28,28.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2008,2107,99,28,0,No,1000000.0
+58,78702,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2001,2021,20,0,0,No,25000.0
+59,78704,5,30,30.0,4.0,0.0,Multifamily,Rental,7. Project Completed,2002,2022,20,30,0,No,1009502.0
+60,78702,1,2,2.0,0.0,0.0,Duplex,Rental,7. Project Completed,2007,2027,20,0,0,No,60000.0
+61,78723,1,4,4.0,0.0,0.0,FourPlex,Rental,7. Project Completed,2009,2108,99,4,0,No,19789.5
+62,78702,3,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2005,2025,20,0,0,No,60000.0
+63,78757,7,37,37.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2009,2108,99,37,0,No,2300000.0
+64,78702,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2001,2021,20,0,0,No,25000.0
+65,78723,1,4,4.0,0.0,0.0,FourPlex,Rental,7. Project Completed,2009,2108,99,4,0,No,19789.5
+66,78704,5,64,64.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2010,2050,40,28,0,No,2250000.0
+67,78745,2,85,85.0,11.0,0.0,Multifamily,Rental,7. Project Completed,2003,2033,30,85,0,No,500000.0
+68,78723,1,4,4.0,0.0,0.0,FourPlex,Rental,7. Project Completed,2009,2108,99,4,0,No,19789.5
+69,78721,1,250,250.0,30.0,0.0,Multifamily,Rental,7. Project Completed,2000,2020,20,0,0,No,500000.0
+70,78745,2,4,4.0,0.0,0.0,Single Family,Rental,7. Project Completed,2006,2026,20,0,0,No,4190.0
+71,78702,3,1,1.0,2.0,0.0,Single Family,Rental,7. Project Completed,2005,2025,20,0,0,No,60000.0
+72,78735,8,160,160.0,19.0,0.0,Multifamily,Rental,7. Project Completed,2000,2020,20,81,0,No,1000000.0
+73,78702,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2008,2048,40,1,0,No,125000.0
+74,78702,3,1,1.0,0.0,0.0,Duplex,Rental,7. Project Completed,2005,2025,20,0,0,No,60000.0
+75,78745,2,3,3.0,0.0,0.0,Single Family,Rental,7. Project Completed,2002,2022,20,3,0,No,23966.67
+76,78744,2,3,3.0,0.0,0.0,Single Family,Rental,7. Project Completed,2002,2022,20,3,0,No,23966.66
+77,78704,5,8,8.0,9.0,8.0,Multifamily,Rental,7. Project Completed,2013,2112,99,8,0,No,494740.0
+78,78745,2,3,3.0,1.0,0.0,Single Family,Rental,7. Project Completed,2002,2022,20,3,0,No,23966.67
+79,78753,4,476,215.0,27.0,0.0,Multifamily,Rental,7. Project Completed,2010,2109,99,193,261,No,3000000.0
+80,78702,1,1,1.0,0.0,0.0,Duplex,Rental,7. Project Completed,2005,2025,20,0,0,No,60000.0
+81,78722,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2009,2019,10,0,0,No,32857.15
+82,78702,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2001,2021,20,0,0,No,25000.0
+83,78702,3,2,2.0,2.0,0.0,Single Family,Rental,7. Project Completed,2003,2023,20,0,0,No,65000.0
+84,78702,1,22,22.0,2.0,0.0,Multifamily,Rental,7. Project Completed,2008,2047,40,18,0,No,2138239.0
+85,78721,3,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2009,2049,40,0,0,No,160625.0
+86,78721,3,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2009,2049,40,0,0,No,160625.0
+87,78721,3,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2009,2049,40,0,0,No,160625.0
+88,78702,1,2,2.0,0.0,0.0,Duplex,Rental,7. Project Completed,2009,2049,40,0,0,No,321250.0
+89,78758,7,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2009,2108,99,1,0,No,140810.0
+90,78752,4,15,15.0,2.0,0.0,Multifamily,Rental,8. Affordability Period Expired,2006,2016,10,15,0,No,180000.0
+91,78702,1,2,2.0,0.0,0.0,Duplex,Rental,7. Project Completed,2009,2049,40,0,0,No,321250.0
+92,78752,4,2,2.0,2.0,0.0,Duplex,Rental,7. Project Completed,2012,2032,20,2,0,No,260000.0
+93,78758,4,200,180.0,0.0,0.0,Multifamily,Rental,8. Affordability Period Expired,2007,2027,20,80,20,No,147500.0
+94,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2011,2021,10,0,0,No,40816.33
+95,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2011,2021,10,0,0,No,40816.33
+96,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,40816.33
+97,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2013,2023,10,0,0,No,77691.33
+98,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2013,2023,10,0,0,No,77691.33
+99,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2013,2023,10,0,0,No,77691.33
+100,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2013,2023,10,0,0,No,77691.33
+101,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2013,2023,10,0,0,No,77691.33
+102,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2013,2023,10,0,0,No,40816.33
+103,78721,3,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2009,2049,40,0,0,No,160625.0
+104,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2013,2023,10,0,0,No,40816.33
+105,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2013,2023,10,0,0,No,40816.33
+106,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2014,2024,10,0,0,No,40816.33
+107,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2014,2024,10,0,0,No,40816.33
+108,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2014,2024,10,0,0,No,77691.33
+109,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2014,2024,10,0,0,No,40816.33
+110,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2014,2024,10,0,0,No,40816.33
+111,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2014,2024,10,0,0,No,40816.33
+112,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2014,2024,10,0,0,No,40816.33
+113,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2014,2024,10,0,0,No,75923.13
+114,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2014,2024,10,0,0,No,75923.13
+115,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2014,2024,10,0,0,No,75923.13
+116,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2014,2024,10,0,0,No,75923.13
+117,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+118,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+119,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+120,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+121,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+122,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+123,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+124,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+125,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+126,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+127,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+128,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+129,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+130,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+131,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+132,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+133,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2022,10,0,0,No,52149.05
+134,78745,2,240,176.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2010,2109,99,26,0,No,2940000.0
+135,78702,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2015,2114,99,0,0,No,136313.0
+136,78748,5,2,2.0,0.0,0.0,Duplex,Rental,7. Project Completed,2016,2115,99,2,0,No,392737.0
+137,78722,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2014,2113,99,1,0,No,8567.0
+138,78722,1,2,2.0,0.0,0.0,Duplex,Rental,7. Project Completed,2014,2113,99,2,0,No,17133.0
+139,78702,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2016,2115,99,1,0,No,127413.0
+140,78704,5,100,100.0,2.0,0.0,Multifamily,Rental,7. Project Completed,2008,2048,40,100,0,No,3516850.0
+141,78748,5,140,126.0,17.0,14.0,Multifamily,Rental,7. Project Completed,2013,2053,40,70,14,No,3250000.0
+142,78701,1,135,135.0,17.0,27.0,Multifamily,Rental,7. Project Completed,2014,2054,40,81,0,No,4660000.0
+143,78704,5,107,107.0,13.0,6.0,Multifamily,Rental,7. Project Completed,2014,2054,40,64,0,No,3994420.0
+144,78717,6,128,128.0,16.0,13.0,Multifamily,Rental,7. Project Completed,2014,2054,40,64,0,No,3269820.0
+145,78735,8,58,58.0,8.0,12.0,Multifamily,Rental,7. Project Completed,2014,2054,40,34,0,No,2045690.0
+146,78750,6,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2014,2112,99,1,0,No,55056.0
+147,78758,7,2,2.0,0.0,0.0,Duplex,Rental,7. Project Completed,2014,2112,99,2,0,No,110110.0
+148,78745,5,4,3.0,0.0,0.0,FourPlex,Rental,7. Project Completed,2014,2113,99,3,1,No,187000.0
+149,78745,5,4,2.0,0.0,0.0,FourPlex,Rental,7. Project Completed,2015,2114,99,4,0,No,146093.5
+150,78745,5,4,3.0,0.0,0.0,FourPlex,Rental,7. Project Completed,2015,2114,99,1,3,No,146093.5
+151,78702,3,45,45.0,6.0,20.0,Multifamily,Rental,7. Project Completed,2014,2113,99,30,0,No,850000.0
+152,78704,9,173,173.0,22.0,0.0,Multifamily,Rental,7. Project Completed,2009,2049,40,70,0,No,2000000.0
+153,78617,2,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2011,2047,36,0,0,No,16500.0
+154,78617,2,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2010,2040,30,0,0,No,105300.0
+155,78754,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2011,2047,36,0,0,No,112514.0
+156,78617,2,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2042,30,0,0,No,70692.0
+157,78745,5,88,88.0,0.0,0.0,Single Family,Ownership,1. Certified/Loan Executed,2000,2001,1,0,0,No,1250000.0
+158,78702,1,4,0.0,0.0,0.0,Multifamily,Ownership,7. Project Completed,2000,2099,99,0,4,No,3962717.0
+159,78702,1,1,1.0,0.0,0.0,Single Family,Ownership,8. Affordability Period Expired,2005,2006,1,0,0,No,21017.0
+160,78702,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2013,2112,99,0,0,No,245000.0
+161,78702,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2012,2111,99,0,0,No,122500.0
+162,78744,2,126,126.0,0.0,0.0,Single Family,Ownership,1. Certified/Loan Executed,2000,2005,5,0,0,No,942896.0
+163,78723,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2010,2020,10,0,0,No,914470.0
+164,78744,2,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2009,2024,15,0,0,No,154580.0
+165,78744,2,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2009,2024,15,0,0,No,234580.0
+166,78744,2,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2009,2019,10,0,0,No,452495.0
+167,78721,1,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2013,2023,10,0,0,No,62500.0
+168,78702,1,1,1.0,0.0,0.0,Single Family,Ownership,8. Affordability Period Expired,2010,2011,1,0,0,No,120000.0
+169,78741,3,284,56.0,0.0,0.0,Multifamily,Rental,8. Affordability Period Expired,2010,2037,27,0,228,No,8600000.0
+170,78741,3,240,240.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2001,2021,20,0,0,No,11700000.0
+171,78704,5,10,10.0,11.0,10.0,Multifamily,Rental,7. Project Completed,2013,2112,99,10,0,No,624898.0
+172,78741,3,4,4.0,0.0,0.0,Single Family,Ownership,8. Affordability Period Expired,2015,2016,1,0,0,No,102500.0
+173,78723,1,27,27.0,27.0,0.0,Multifamily,Rental,1. Certified/Loan Executed,2016,2115,99,27,0,No,2549260.0
+174,78724,1,1,1.0,0.0,0.0,Single Family,Ownership,1. Certified/Loan Executed,2000,2015,15,0,0,No,1538941.0
+175,78702,1,50,50.0,7.0,50.0,Multifamily,Rental,6. Building Permit Issued,2019,2059,40,50,0,No,3888112.0
+176,78748,5,95,83.0,12.0,10.0,Multifamily,Rental,7. Project Completed,2018,2058,40,34,12,No,3300000.0
+177,78730,6,120,120.0,15.0,12.0,Multifamily,Rental,7. Project Completed,2015,2055,40,60,0,No,2575000.0
+178,78753,4,288,251.0,0.0,0.0,Multifamily,Rental,8. Affordability Period Expired,1997,2017,20,0,37,No,7795000.0
+179,78702,3,1,1.0,0.0,0.0,Single Family,Ownership,6. Building Permit Issued,2000,2099,99,0,0,No,158600.0
+180,78703,9,1,1.0,0.0,0.0,ADU,Rental,7. Project Completed,2015,2114,99,1,0,No,108200.0
+181,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2016,2031,15,0,0,No,77167.64
+182,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2016,2031,15,0,0,No,77167.64
+183,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2016,2031,15,0,0,No,77167.64
+184,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2016,2026,10,0,0,No,77167.64
+185,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2016,2031,15,0,0,No,771067.64
+186,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2016,2026,10,0,0,No,77167.64
+187,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2016,2031,15,0,0,No,77167.64
+188,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2016,2031,15,0,0,No,77167.64
+189,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2016,2031,15,0,0,No,77167.64
+190,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2016,2031,15,0,0,No,77167.64
+191,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2016,2031,15,0,0,No,77167.64
+192,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,7. Project Completed,2011,2021,10,0,0,No,130000.0
+193,78741,3,1,1.0,0.0,0.0,Single Family,Ownership,8. Affordability Period Expired,2009,2019,10,0,0,No,265000.0
+194,78704,5,24,24.0,1.0,0.0,Multifamily,Rental,7. Project Completed,2009,2108,99,12,0,No,2713000.0
+195,78702,1,24,24.0,0.0,0.0,Multifamily,Rental,7. Project Completed,2013,2112,99,5,0,No,2800000.0
+196,78702,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2016,2031,15,1,0,No,50000.0
+197,78727,7,90,90.0,11.0,25.0,Multifamily,Rental,1. Certified/Loan Executed,2020,2060,40,40,0,No,3320000.0
+198,78722,1,1,1.0,0.0,0.0,Single Family,Rental,7. Project Completed,2017,2116,99,1,0,No,150095.0
+199,78702,1,225,58.0,18.0,3.0,Multifamily,Rental,1. Certified/Loan Executed,2000,2099,99,52,167,No,2500000.0
